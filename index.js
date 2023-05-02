@@ -10,9 +10,7 @@ app.get('/recipes', (req,res)=>{
 })
 app.get('/recipes/:id', (req, res) => {
     const id = req.params.id;
-    console.log(id)
     const selectedChef = recipes.filter(r=>r.chef_id == id);
-    console.log(selectedChef)
     res.send(selectedChef)
 })
 app.get('/chefsprofile',(req,res)=>{
@@ -20,7 +18,9 @@ app.get('/chefsprofile',(req,res)=>{
 })
 
 app.get('/', (req, res) => {
-    res.send(`hello world from dishdelight ${port}`)
+    res.send(`<div>
+    <p> welcome to my server</p>
+    </div>`)
 })
 
 app.listen(port,()=>{
