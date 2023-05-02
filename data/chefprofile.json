@@ -1,0 +1,82 @@
+[
+    {
+      "chef_id": 1,
+      "chef_picture": "https://example.com/chef1.jpg",
+      "chef_name": "Mario Bianchi",
+      "years_of_experience": 10,
+      "num_recipes": 20,
+      "likes": 500,
+      "bio": "Mario Bianchi is a master chef who has been cooking for over a decade. He is particularly known for his homemade pasta dishes and is always experimenting with new flavors and ingredients.",
+      "rating": 4.5
+    },
+    {
+      "chef_id": 2,
+      "chef_picture": "https://example.com/chef2.jpg",
+      "chef_name": "Luigi Verdi",
+      "years_of_experience": 8,
+      "num_recipes": 15,
+      "likes": 400,
+      "bio": "Luigi Verdi is a talented chef who specializes in seafood dishes. He is particularly known for his use of fresh, locally sourced ingredients and his expertise in preparing fish and shellfish.",
+      "rating": 4.2
+    },
+    {
+      "chef_id": 3,
+      "chef_picture": "https://example.com/chef3.jpg",
+      "chef_name": "Giovanni Rossi",
+      "years_of_experience": 12,
+      "num_recipes": 25,
+      "likes": 550,
+      "bio": "Giovanni Rossi is an experienced chef who has worked in some of the best restaurants in Italy. He is particularly known for his classic Italian dishes and his ability to put a modern twist on traditional recipes.",
+      "rating": 4.8
+    },
+    {
+      "chef_id": 4,
+      "chef_picture": "https://example.com/chef4.jpg",
+      "chef_name": "Francesca Russo",
+      "years_of_experience": 5,
+      "num_recipes": 10,
+      "likes": 250,
+      "bio": "Francesca Russo is a young and innovative chef who is always experimenting with new flavors and ingredients. She is particularly known for her vegetarian and vegan dishes, and her use of fresh herbs and spices.",
+      "rating": 4.6
+    },
+    {
+      "chef_id": 5,
+      "chef_picture": "https://example.com/chef5.jpg",
+      "chef_name": "Alessandro Ferrari",
+      "years_of_experience": 7,
+      "num_recipes": 12,
+      "likes": 300,
+      "bio": "Alessandro Ferrari is a passionate chef who specializes in regional Italian cuisine. He is particularly known for his use of fresh, locally sourced ingredients and his ability to create dishes that showcase the flavors and traditions of his hometown.",
+      "rating": 4.3
+    },
+    {
+      "chef_id": 6,
+      "chef_picture": "https://example.com/chef6.jpg",
+      "chef_name": "Sofia Bianchi",
+      "years_of_experience": 3,
+      "num_recipes": 8,
+      "likes": 200,
+      "bio": "Sofia Bianchi is a rising star in the culinary world. She is particularly known for her creative use of ingredients and her ability to create dishes that are both beautiful and delicious.",
+      "rating": 4.2
+    },
+    {
+      "chef_id": 7,
+      "chef_picture": "https://example.com/chef7.jpg",
+      "chef_name": "Francesco Russo",
+      "years_of_experience": 9,
+      "num_recipes": 12,
+  "likes": 450,
+  "bio": "Francesco Russo is an experienced chef who has worked in some of the most prestigious restaurants in Italy. He is particularly known for his seafood dishes and his expertise in preparing fish and shellfish.",
+  "rating": 4.7
+  },
+  {
+  "chef_id": 8,
+  "chef_picture": "https://example.com/chef8.jpg",
+  "chef_name": "Greta Ferrari",
+  "years_of_experience": 6,
+  "num_recipes": 14,
+  "likes": 350,
+  "bio": "Greta Ferrari is a young and talented chef who is always looking for new ways to push the boundaries of Italian cuisine. She is particularly known for her use of fresh, seasonal ingredients and her ability to create dishes that are both flavorful and visually stunning.",
+  "rating": 4.4
+  }
+  ]
