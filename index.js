@@ -10,7 +10,12 @@ app.get('/recipes', (req,res)=>{
 })
 app.get('/recipes/:id', (req, res) => {
     const id = req.params.id;
-    const selectedChef = recipes.filter(r=>r.chef_id == id);
+    const selectedRecipie = recipes.filter(r=>r.chef_id == id);
+    res.send(selectedRecipie)
+})
+app.get('/chef/:id', (req, res) => {
+    const id = req.params.id;
+    const selectedChef = chefsProfiles.filter(r=>r.chef_id == id);
     res.send(selectedChef)
 })
 app.get('/chefsprofile',(req,res)=>{

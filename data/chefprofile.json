@@ -1,7 +1,7 @@
 [
     {
       "chef_id": 1,
-      "chef_picture": "https://example.com/chef1.jpg",
+      "chef_picture":  "https://img.freepik.com/free-photo/portrait-white-man-isolated_53876-40306.jpg?w=826&t=st=1683146759~exp=1683147359~hmac=f2f9758031c48e471d642334830fa10766cd1636aca07e5878e8fm/chef1.jpg",
       "chef_name": "Mario Bianchi",
       "years_of_experience": 10,
       "num_recipes": 20,
@@ -11,7 +11,7 @@
     },
     {
       "chef_id": 2,
-      "chef_picture": "https://example.com/chef2.jpg",
+      "chef_picture":  "https://img.freepik.com/free-photo/portrait-white-man-isolated_53876-40306.jpg?w=826&t=st=1683146759~exp=1683147359~hmac=f2f9758031c48e471d642334830fa10766cd1636aca07e5878e8fm/chef2.jpg",
       "chef_name": "Luigi Verdi",
       "years_of_experience": 8,
       "num_recipes": 15,
@@ -21,7 +21,7 @@
     },
     {
       "chef_id": 3,
-      "chef_picture": "https://example.com/chef3.jpg",
+      "chef_picture":  "https://img.freepik.com/free-photo/portrait-white-man-isolated_53876-40306.jpg?w=826&t=st=1683146759~exp=1683147359~hmac=f2f9758031c48e471d642334830fa10766cd1636aca07e5878e8fm/chef3.jpg",
       "chef_name": "Giovanni Rossi",
       "years_of_experience": 12,
       "num_recipes": 25,
@@ -31,7 +31,7 @@
     },
     {
       "chef_id": 4,
-      "chef_picture": "https://example.com/chef4.jpg",
+      "chef_picture":  "https://img.freepik.com/free-photo/portrait-white-man-isolated_53876-40306.jpg?w=826&t=st=1683146759~exp=1683147359~hmac=f2f9758031c48e471d642334830fa10766cd1636aca07e5878e8fm/chef4.jpg",
       "chef_name": "Francesca Russo",
       "years_of_experience": 5,
       "num_recipes": 10,
@@ -41,7 +41,7 @@
     },
     {
       "chef_id": 5,
-      "chef_picture": "https://example.com/chef5.jpg",
+      "chef_picture":  "https://img.freepik.com/free-photo/portrait-white-man-isolated_53876-40306.jpg?w=826&t=st=1683146759~exp=1683147359~hmac=f2f9758031c48e471d642334830fa10766cd1636aca07e5878e8fm/chef5.jpg",
       "chef_name": "Alessandro Ferrari",
       "years_of_experience": 7,
       "num_recipes": 12,
@@ -51,7 +51,7 @@
     },
     {
       "chef_id": 6,
-      "chef_picture": "https://example.com/chef6.jpg",
+      "chef_picture":  "https://img.freepik.com/free-photo/portrait-white-man-isolated_53876-40306.jpg?w=826&t=st=1683146759~exp=1683147359~hmac=f2f9758031c48e471d642334830fa10766cd1636aca07e5878e8fm/chef6.jpg",
       "chef_name": "Sofia Bianchi",
       "years_of_experience": 3,
       "num_recipes": 8,
@@ -61,7 +61,7 @@
     },
     {
       "chef_id": 7,
-      "chef_picture": "https://example.com/chef7.jpg",
+      "chef_picture":  "https://img.freepik.com/free-photo/portrait-white-man-isolated_53876-40306.jpg?w=826&t=st=1683146759~exp=1683147359~hmac=f2f9758031c48e471d642334830fa10766cd1636aca07e5878e8fm/chef7.jpg",
       "chef_name": "Francesco Russo",
       "years_of_experience": 9,
       "num_recipes": 12,
@@ -71,7 +71,7 @@
   },
   {
   "chef_id": 8,
-  "chef_picture": "https://example.com/chef8.jpg",
+  "chef_picture":  "https://img.freepik.com/free-photo/portrait-white-man-isolated_53876-40306.jpg?w=826&t=st=1683146759~exp=1683147359~hmac=f2f9758031c48e471d642334830fa10766cd1636aca07e5878e8f743c9607a76",
   "chef_name": "Greta Ferrari",
   "years_of_experience": 6,
   "num_recipes": 14,
