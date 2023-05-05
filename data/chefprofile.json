@@ -1,7 +1,7 @@
 [
     {
       "chef_id": 1,
-      "chef_picture":  "https://img.freepik.com/free-photo/portrait-white-man-isolated_53876-40306.jpg?w=826&t=st=1683146759~exp=1683147359~hmac=f2f9758031c48e471d642334830fa10766cd1636aca07e5878e8fm/chef1.jpg",
+      "chef_picture":  "https://img.freepik.com/free-photo/portrait-elderly-chef-dressed-uniform-with-crossed-arms-against-dark-background_613910-17580.jpg?w=996&t=st=1683285020~exp=1683285620~hmac=789c753643e1721d4bd53d928d01b780b180fb2262d98df5f2b913b6629255be",
       "chef_name": "Mario Bianchi",
       "years_of_experience": 10,
       "num_recipes": 20,
@@ -11,7 +11,7 @@
     },
     {
       "chef_id": 2,
-      "chef_picture":  "https://img.freepik.com/free-photo/portrait-white-man-isolated_53876-40306.jpg?w=826&t=st=1683146759~exp=1683147359~hmac=f2f9758031c48e471d642334830fa10766cd1636aca07e5878e8fm/chef2.jpg",
+      "chef_picture":  "https://img.freepik.com/free-photo/studio-portrait-positive-cook-male-holds-eggplant_613910-9899.jpg?w=360&t=st=1683285061~exp=1683285661~hmac=4ee935041e19b8f232236814e6cf17204c1751bf90c832fd70b254e77134f6b3",
       "chef_name": "Luigi Verdi",
       "years_of_experience": 8,
       "num_recipes": 15,
@@ -21,7 +21,7 @@
     },
     {
       "chef_id": 3,
-      "chef_picture":  "https://img.freepik.com/free-photo/portrait-white-man-isolated_53876-40306.jpg?w=826&t=st=1683146759~exp=1683147359~hmac=f2f9758031c48e471d642334830fa10766cd1636aca07e5878e8fm/chef3.jpg",
+      "chef_picture":  "https://img.freepik.com/free-photo/medium-shot-chef-posing-with-spatula_23-2148723240.jpg?w=360&t=st=1683285117~exp=1683285717~hmac=a12e20ae3b5f164949b539d3984952dd4cbd485db18bfaa9f492900690b19821",
       "chef_name": "Giovanni Rossi",
       "years_of_experience": 12,
       "num_recipes": 25,
@@ -31,7 +31,7 @@
     },
     {
       "chef_id": 4,
-      "chef_picture":  "https://img.freepik.com/free-photo/portrait-white-man-isolated_53876-40306.jpg?w=826&t=st=1683146759~exp=1683147359~hmac=f2f9758031c48e471d642334830fa10766cd1636aca07e5878e8fm/chef4.jpg",
+      "chef_picture":  "https://img.freepik.com/free-photo/portrait-confident-male-chef-kitchen_23-2147863584.jpg?w=360&t=st=1683285183~exp=1683285783~hmac=958dbd98ed4ae1af2e84322f03f74f179589c105304ac81a227eb888fd9e2988",
       "chef_name": "Francesca Russo",
       "years_of_experience": 5,
       "num_recipes": 10,
@@ -41,7 +41,7 @@
     },
     {
       "chef_id": 5,
-      "chef_picture":  "https://img.freepik.com/free-photo/portrait-white-man-isolated_53876-40306.jpg?w=826&t=st=1683146759~exp=1683147359~hmac=f2f9758031c48e471d642334830fa10766cd1636aca07e5878e8fm/chef5.jpg",
+      "chef_picture":  "https://img.freepik.com/free-photo/portrait-chef-with-arms-crossed_23-2148006335.jpg?w=360&t=st=1683285259~exp=1683285859~hmac=ba9ede1d967ec89fa0ff74661a69749444ce77481c297a9cda1f2a692c0d0c82",
       "chef_name": "Alessandro Ferrari",
       "years_of_experience": 7,
       "num_recipes": 12,
@@ -51,7 +51,7 @@
     },
     {
       "chef_id": 6,
-      "chef_picture":  "https://img.freepik.com/free-photo/portrait-white-man-isolated_53876-40306.jpg?w=826&t=st=1683146759~exp=1683147359~hmac=f2f9758031c48e471d642334830fa10766cd1636aca07e5878e8fm/chef6.jpg",
+      "chef_picture":  "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5342.jpg?w=996&t=st=1683285334~exp=1683285934~hmac=da69cf46dd273d21b63efe37847d13798bd7e8cbbe884b41cfc5e0c1873a5123",
       "chef_name": "Sofia Bianchi",
       "years_of_experience": 3,
       "num_recipes": 8,
@@ -61,7 +61,7 @@
     },
     {
       "chef_id": 7,
-      "chef_picture":  "https://img.freepik.com/free-photo/portrait-white-man-isolated_53876-40306.jpg?w=826&t=st=1683146759~exp=1683147359~hmac=f2f9758031c48e471d642334830fa10766cd1636aca07e5878e8fm/chef7.jpg",
+      "chef_picture":  "https://img.freepik.com/free-photo/satisfied-professional-male-chef-cook-white-uniform-cook-hat-standing-with-arms-crossed-looking-confident-green-background_141793-20656.jpg?w=996&t=st=1683285359~exp=1683285959~hmac=37fc30b9529606d0fe6da15512d75d447e3c1fdc78b80cc40214be64d8d4e82f",
       "chef_name": "Francesco Russo",
       "years_of_experience": 9,
       "num_recipes": 12,
@@ -71,7 +71,7 @@
   },
   {
   "chef_id": 8,
-  "chef_picture":  "https://img.freepik.com/free-photo/portrait-white-man-isolated_53876-40306.jpg?w=826&t=st=1683146759~exp=1683147359~hmac=f2f9758031c48e471d642334830fa10766cd1636aca07e5878e8f743c9607a76",
+  "chef_picture":  "https://img.freepik.com/free-photo/confident-young-handsome-cook-chef-uniform-standing-with-closed-posture-isolated-white-wall_141793-101140.jpg?w=996&t=st=1683285386~exp=1683285986~hmac=05843e41eef2c1e67041d72ec3407b12956e33cef3fe9b52489663a60912d18d",
   "chef_name": "Greta Ferrari",
   "years_of_experience": 6,
   "num_recipes": 14,

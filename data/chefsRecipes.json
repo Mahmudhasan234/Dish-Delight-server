@@ -1,6 +1,7 @@
 [
     {
       "chef_id": 1,
+       "rating": 4.4,
       "recipe_name": "Penne all'arrabbiata",
       "ingredients": [
         "penne pasta",
@@ -13,6 +14,7 @@
     },
     {
       "chef_id": 1,
+       "rating": 4.1,
       "recipe_name": "Caprese salad",
       "ingredients": [
         "tomatoes",
@@ -25,6 +27,7 @@
     },
     {
       "chef_id": 1,
+       "rating": 4.2,
       "recipe_name": "Pesto pasta",
       "ingredients": [
         "spaghetti",
@@ -37,6 +40,7 @@
     },
     {
       "chef_id": 1,
+       "rating": 4.3,
       "recipe_name": "Bruschetta",
       "ingredients": [
         "baguette",
@@ -49,6 +53,7 @@
     },
     {
       "chef_id": 2,
+       "rating": 4.4,
       "recipe_name": "Tiramisu",
       "ingredients": [
         "ladyfingers",
@@ -61,6 +66,7 @@
   },
   {
   "chef_id": 2,
+   "rating": 4,
   "recipe_name": "Spaghetti carbonara",
   "ingredients": [
   "spaghetti",
@@ -73,6 +79,7 @@
   },
   {
   "chef_id": 2,
+   "rating": 3.5,
   "recipe_name": "Margherita pizza",
   "ingredients": [
   "pizza dough",
@@ -85,6 +92,7 @@
   },
   {
   "chef_id": 2,
+   "rating": 4.7,
   "recipe_name": "Bolognese sauce",
   "ingredients": [
   "ground beef",
@@ -97,6 +105,7 @@
   },
     {
       "chef_id": 3,
+       "rating": 4.1,
       "recipe_name": "Spaghetti Carbonara",
       "ingredients": [
         "spaghetti",
@@ -109,6 +118,7 @@
     },
     {
       "chef_id": 3,
+       "rating": 4.3,
       "recipe_name": "Pollo alla Cacciatora",
       "ingredients": [
         "chicken",
@@ -121,6 +131,7 @@
     },
     {
       "chef_id": 3,
+       "rating": 4.5,
       "recipe_name": "Focaccia Bread",
       "ingredients": [
         "flour",
@@ -133,6 +144,7 @@
     },
     {
       "chef_id": 3,
+       "rating": 4.1,
       "recipe_name": "Pesto Pasta",
       "ingredients": [
         "pasta",
@@ -145,6 +157,7 @@
     },
   {
   "chef_id": 4,
+   "rating": 4.3,
   "recipe_name": "Margherita Pizza",
   "ingredients": [
   "pizza dough",
@@ -157,6 +170,7 @@
   },
   {
   "chef_id": 4,
+   "rating": 4.2,
   "recipe_name": "Pesto Pasta",
   "ingredients": [
   "pasta",
@@ -169,6 +183,7 @@
   },
   {
   "chef_id": 4,
+   "rating": 4.5,
   "recipe_name": "Osso Buco",
   "ingredients": [
   "veal shanks",
@@ -181,6 +196,7 @@
   },
     {
       "chef_id": 4,
+       "rating": 4.1,
       "recipe_name": "Pesto Pasta",
       "ingredients": [
         "pasta",
@@ -193,6 +209,7 @@
     },
     {
       "chef_id": 5,
+       "rating": 4.4,
       "recipe_name": "Margherita Pizza",
       "ingredients": [
         "pizza dough",
@@ -205,6 +222,7 @@
     },
     {
       "chef_id": 5,
+       "rating": 4.4,
       "recipe_name": "Minestrone Soup",
       "ingredients": [
         "onion",
@@ -217,6 +235,7 @@
     },
     {
       "chef_id": 5,
+       "rating": 4.4,
       "recipe_name": "Chicken Marsala",
       "ingredients": [
         "chicken breasts",
@@ -229,6 +248,7 @@
     },
     {
   "chef_id": 5,
+   "rating": 4.4,
   "recipe_name": "Bolognese Sauce",
   "ingredients": [
   "ground beef",
@@ -241,24 +261,28 @@
   },
   {
       "chef_id": 6,
+       "rating": 4.4,
       "recipe_name": "Spaghetti Carbonara",
       "ingredients": ["spaghetti", "pancetta", "eggs", "Parmesan cheese", "black pepper"],
       "cooking_method": "1. Cook spaghetti according to package directions. \n2. Meanwhile, cook pancetta in a large skillet over medium heat until crisp. Remove with a slotted spoon and drain on paper towels.\n3. In a medium bowl, beat together eggs and Parmesan cheese.\n4. Drain spaghetti, reserving 1/4 cup pasta water. Add hot spaghetti to skillet with pancetta and toss to combine. Remove from heat.\n5. Pour egg mixture over spaghetti, stirring quickly to coat. Thin sauce with reserved pasta water if desired. Serve with black pepper."
   },
   {
       "chef_id": 6,
+       "rating": 4.4,
       "recipe_name": "Bolognese Sauce",
       "ingredients": ["ground beef", "onion", "celery", "carrot", "tomatoes", "red wine", "beef broth", "bay leaf"],
       "cooking_method": "1. Heat oil in a large saucepan over medium heat. Add onion, celery, and carrot and cook, stirring occasionally, until vegetables are softened.\n2. Add ground beef and cook until browned, breaking up any clumps with a wooden spoon.\n3. Add tomatoes, red wine, beef broth, and bay leaf. Bring to a simmer and cook, uncovered, until sauce is thickened and flavors are melded, stirring occasionally.\n4. Remove bay leaf and season with salt and pepper. Serve over cooked pasta with grated Parmesan cheese."
   },
   {
       "chef_id": 6,
+       "rating": 4.4,
       "recipe_name": "Bruschetta",
       "ingredients": ["baguette", "tomatoes", "garlic", "olive oil", "basil"],
       "cooking_method": "1. Preheat oven to 400°F.\n2. Slice baguette into 1/2 inch thick rounds and place on a baking sheet.\n3. Brush bread with olive oil and bake for 5-7 minutes, or until lightly toasted.\n4. Meanwhile, chop tomatoes and garlic and combine in a bowl with chopped basil and a drizzle of olive oil.\n5. Top each toast with a spoonful of tomato mixture and serve immediately."
   },
   {
       "chef_id": 6,
+       "rating": 4.4,
       "recipe_name": "Tiramisu",
       "ingredients": ["mascarpone cheese", "heavy cream", "espresso", "ladyfingers", "cocoa powder"],
       "cooking_method": "1. In a large bowl, beat together mascarpone cheese and heavy cream until light and fluffy.\n2. Brew espresso and let cool.\n3. Dip ladyfingers in espresso and arrange in a single layer in a 9x13 inch dish.\n4. Spread half of the mascarpone mixture over the ladyfingers.\n5. Repeat with another layer of espresso-soaked ladyfingers and remaining mascarpone mixture.\n6. Cover and refrigerate for at least 2 hours or overnight.\n7. Before serving, dust with cocoa powder."
@@ -266,30 +290,35 @@
   
       {
           "chef_id": 7,
+           "rating": 4.4,
           "recipe_name": "Pesto Pasta",
           "ingredients": ["spaghetti", "basil leaves", "pine nuts", "Parmesan cheese", "garlic", "olive oil"],
           "cooking_method": "1. Cook spaghetti according to package directions. \n2. Meanwhile, combine basil leaves, pine nuts, Parmesan cheese, garlic, and olive oil in a food processor and pulse until smooth.\n3. Drain spaghetti and toss with pesto sauce until evenly coated. Serve hot."
       },
       {
           "chef_id": 7,
+           "rating": 4.4,
           "recipe_name": "Caprese Salad",
           "ingredients": ["tomatoes", "fresh mozzarella", "basil leaves", "balsamic vinegar", "olive oil"],
           "cooking_method": "1. Slice tomatoes and fresh mozzarella into 1/4 inch thick slices.\n2. Arrange tomato and mozzarella slices alternately on a serving plate.\n3. Sprinkle with chopped basil leaves.\n4. Drizzle balsamic vinegar and olive oil over the top. Season with salt and pepper to taste. Serve immediately."
       },
       {
           "chef_id": 7,
+           "rating": 4.4,
           "recipe_name": "Risotto",
           "ingredients": ["Arborio rice", "chicken broth", "white wine", "onion", "Parmesan cheese", "butter"],
           "cooking_method": "1. Heat chicken broth in a large saucepan and keep warm over low heat.\n2. In a separate large saucepan, heat butter over medium heat. Add onion and cook until softened.\n3. Add Arborio rice and stir to coat in the butter.\n4. Add white wine and cook until the liquid has been absorbed by the rice.\n5. Begin adding chicken broth, one ladle at a time, stirring constantly and waiting for the broth to be absorbed before adding the next ladle.\n6. Continue until the rice is tender and the risotto is creamy.\n7. Stir in Parmesan cheese until melted. Serve hot."
       },
       {
           "chef_id": 7,
+           "rating": 4.4,
           "recipe_name": "Tortellini Soup",
           "ingredients": ["cheese tortellini", "chicken broth", "canned tomatoes", "carrots", "celery", "onion"],
           "cooking_method": "1. In a large pot, heat chicken broth and canned tomatoes over medium heat.\n2. Add diced carrots, celery, and onion and simmer until vegetables are tender.\n3. Add cheese tortellini and cook until tender.\n4. Season with salt and pepper to taste. Serve hot."
       },
     {
       "chef_id": 8,
+       "rating": 4.4,
       "recipe_name": "Risotto al Gorgonzola",
       "ingredients": [
         "1 1/2 cups Arborio rice",
@@ -315,6 +344,7 @@
     },
     {
       "chef_id": 8,
+       "rating": 4.4,
       "recipe_name": "Tortellini with Pesto",
       "ingredients": [
         "1 lb. fresh tortellini",
@@ -335,6 +365,7 @@
     },
     {
       "chef_id": 8,
+       "rating": 4.4,
       "recipe_name": "Vegetable Lasagna",
       "ingredients": [
         "12 lasagna noodles",
